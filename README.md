@@ -75,7 +75,7 @@ The Sales Dashboard offers a comprehensive summary of the Maven Market’s sales
 
 ![Sales Dashboard](gifs/Sales_Dashboard.gif)
 
-# ✅ Page 2: Table (for Checking Result Values)
+# ✅ Page 2: Table 
 
 This page provides a detailed transactional table for validating sales data, calculated metrics, and filter operations. It's designed to support result verification and enhance transparency of the underlying data.
 
