@@ -14,7 +14,7 @@ End-to-end retail analytics dashboard built in Power BI for sales, profit, and r
 Data ➡️ Data cleaning & transformation using Power BI ➡️ Power BI Dashboard
 
 # 📊 Dataset Information
-**1**. Columns: Product Brand,transaction_date, Product_cost, store_name, Return Rate, Country, Store/City, Date, sales_region, customer_city, etc.
+1. Columns: Product Brand,transaction_date, Product_cost, store_name, Return Rate, Country, Store/City, Date, sales_region, customer_city, etc.
 
 2. Source: Maven Market sample retail dataset (Excel/CSV format).
 
@@ -35,9 +35,9 @@ Data ➡️ Data cleaning & transformation using Power BI ➡️ Power BI Dashbo
 6. Added bookmarks and notes to guide users and highlight important insights.
 
 # 📈 Dashboard Pages
-**1**. Sales Dashboard: KPIs (transactions/profit/returns), product-level analysis, map, treemap, revenue trend, gauge for revenue vs. target.
+1. Sales Dashboard: KPIs (transactions/profit/returns), product-level analysis, map, treemap, revenue trend, gauge for revenue vs. target.
 
-Validation Table: Detailed table sheet for checking data, verifying results, or supporting backend calculations.
+2. Validation Table: Detailed table sheet for checking data, verifying results, or supporting backend calculations.
 
-Notes: Page with summary notes, bookmarks, and business highlights for decision-makers.
+3. Notes: Page with summary notes, bookmarks, and business highlights for decision-makers.
 
