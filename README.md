@@ -88,3 +88,19 @@ This page provides a detailed transactional table for validating sales data, cal
 4. This detailed view supports data validation and deeper business insights beyond the summary dashboard.
 
 ![Table for Checking Result Values](gifs/Table.gif)
+
+# ✅ Page 3: Notes
+
+The Notes page highlights key business findings, records discovered during the project.
+
+1. This page shows the main insights I found from the sales dashboard.
+
+2. Each point highlights an important result, like highest sales, profit peaks, or most returned products.
+
+3. It helps to summarize the key findings from the data in one place.
+
+4. So instead of going through every chart, users can quickly read these notes to understand the main trends.
+
+5. It basically acts like a summary or conclusion page of the whole project.
+
+![Notes](gifs/Notes_with_Bookmarks.gif)
