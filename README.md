@@ -35,9 +35,9 @@ Data ➡️ Data cleaning & transformation using Power BI ➡️ Power BI Dashbo
 6. Added bookmarks and notes to guide users and highlight important insights.
 
 # 📈 Dashboard Pages
-1. Sales Dashboard: KPIs (transactions/profit/returns), product-level analysis, map, treemap, revenue trend, gauge for revenue vs. target.
+1. Sales Dashboard
+   
+2. Validation Table
 
-2. Validation Table: Detailed table sheet for checking data, verifying results, or supporting backend calculations.
-
-3. Notes: Page with summary notes, bookmarks, and business highlights for decision-makers.
+3. Notes
 
