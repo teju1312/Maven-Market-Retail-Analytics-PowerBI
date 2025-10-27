@@ -35,9 +35,15 @@ Data ➡️ Data cleaning & transformation using Power BI ➡️ Power BI Dashbo
 6. Added bookmarks and notes to guide users and highlight important insights.
 
 # 📈 Dashboard Pages
+
 1. Sales Dashboard
    
 2. Validation Table
 
 3. Notes
 
+# 🚀 Tools & Technologies
+
+Power BI 
+
+Excel/CSV
