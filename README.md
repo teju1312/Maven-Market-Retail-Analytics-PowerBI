@@ -47,3 +47,30 @@ Data ➡️ Data cleaning & transformation using Power BI ➡️ Power BI Dashbo
 Power BI 
 
 Excel/CSV
+
+# 🧠 Learnings 
+
+1. Learned how to clean, transform, and model data completely within Power BI.
+
+2. Created multi-page dashboards using advanced visuals and DAX formulas.
+
+3. Designed KPIs to track key goals like profit, transactions, and returns.
+
+4. Added bookmarks and notes to make the dashboard easy for anyone to use.
+
+5. Gained skills in telling business stories with data and finding actionable insights to improve retail performance.
+
+# ✅ Page 1: Sales Dashboard
+The Sales Dashboard offers a comprehensive summary of the Maven Market’s sales performance.
+
+1. This dashboard visualizes sales performance and profitability across different countries and products.
+
+2. It tracks key metrics like transactions, profit, and returns against monthly goals.
+
+3. The map shows regional sales distribution, while the bar and donut charts highlight revenue trends and targets.
+
+4. The interactive filters allow users to view data by country (USA, Canada, Mexico).
+
+5. This dashboard helps in monitoring overall business performance and identifying top-performing regions and products.
+
+![Sales Dashboard](gifs/Sales_Dashboard.gif)
