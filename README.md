@@ -9,3 +9,6 @@ End-to-end retail analytics dashboard built in Power BI for sales, profit, and r
 3. The reports were designed so that anyone — even people without technical skills — could easily view high-level summaries (big-picture insights) and also drill down into detailed transaction-level data when needed.
 
 *(Note: The dashboard uses example data for educational or showcase purposes, not real company data.)*
+
+##🔄 Workflow
+Data ➡️ Data cleaning & transformation using Power BI ➡️ Power BI Dashboard
