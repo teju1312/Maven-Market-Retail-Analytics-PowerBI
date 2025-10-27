@@ -10,6 +10,6 @@ End-to-end retail analytics dashboard built in Power BI for sales, profit, and r
 
 *(Note: The dashboard uses example data for educational or showcase purposes, not real company data.)*
 
-#📌 Project Workflow
+# 📌 Project Workflow
 
 Data ➡️ Data cleaning & transformation using Power BI ➡️ Power BI Dashboard
