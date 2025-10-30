@@ -46,8 +46,6 @@ Data ➡️ Data cleaning & transformation using Power BI ➡️ Power BI Dashbo
 
 Power BI 
 
-Excel/CSV
-
 # 🧠 Learnings 
 
 1. Learned how to clean, transform, and model data completely within Power BI.
